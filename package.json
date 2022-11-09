@@ -48,9 +48,6 @@
     "yt-search": "^2.10.3",
     "ytdl-core": "^4.11.1"
   },
-  "engines": {
-    "node": "16.x"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fdhlgrphy/Crizzy-Bot.git"
