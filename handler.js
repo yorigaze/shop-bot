@@ -765,7 +765,7 @@ Konfirmasi pembayaran mu dengan menunjjukan bukti transfer kepada owner!
                 })
        	     }
      	       break
-			case 'play':
+			/*case 'play':
 			case 'ytplay': {
                 if (!text) return m.reply(`Example : ${prefix + command} story wa anime`)
                 m.reply(act.wait)
@@ -821,7 +821,7 @@ Konfirmasi pembayaran mu dengan menunjjukan bukti transfer kepada owner!
 				conn.sendMessage(from, listms, m)
 
                }
-          	  break
+          	  break*/
 			case 'dariytskunci':{ //KUNCI = BIAR GA DR AKSES HEHE
 				let { yta } = require('./lib/y2mate')
                 if (!text) m.reply(`Example : ${prefix + command} blabla`)
