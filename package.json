@@ -10,19 +10,10 @@
     "start": "node index.js"
   },
   "keywords": [
-    "termux",
-    "whatsapp-bot",
-    "2022",
-    "wabase-md",
-    "whatsapp",
-    "baileys-md",
-    "bot",
-    "wa",
-    "bot-md",
     "multi-device"
   ],
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@adiwajshing/baileys": "github:what-zit-tooyaa/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^3.3.0",
     "axios": "^0.27.2",
@@ -32,6 +23,7 @@
     "child_process": "^1.0.2",
     "colors": "^1.4.0",
     "crypto": "^1.0.1",
+    "express": "^4.18.1",
     "figlet": "^1.5.2",
     "file-type": "16.5.3",
     "fluent-ffmpeg": "^2.1.2",
