@@ -1,7 +1,7 @@
 {
   "name": "botwa",
   "version": "1.0.0",
-  "description": "Bot Whataapp using javascript by Jamal",
+  "description": "",
   "main": "index.js",
   "type": "commonjs",
   "author": "Akmalz",
@@ -30,6 +30,7 @@
     "fs": "^0.0.1-security",
     "hikki-me": "^2.0.0",
     "human-readable": "^0.2.1",
+    "ikyy": "^5.0.7",
     "jimp": "^0.16.1",
     "jsdom": "^20.0.0",
     "moment-timezone": "^0.5.34",
@@ -45,13 +46,7 @@
     "qrcode-terminal": "^0.12.0",
     "readline": "^1.3.0",
     "util": "^0.12.4",
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fdhlgrphy/Crizzy-Bot.git"
-  },
-  "bugs": {
-    "url": "https://github.com/fdhlgrphy/Crizzy-Bot/issues"
-  },
-  "homepage": "https://github.com/fdhlgrphy/Crizzy-Bot#readme"
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.1"
+  }
 }
